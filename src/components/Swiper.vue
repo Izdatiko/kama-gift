@@ -22,6 +22,7 @@
         <video width="100%" height="360" controls>
             <source src="/assets/3.MOV?url" type="video/mp4">
           </video>
+          <!-- test -->
     </swiper-slide>
 
     </swiper>
